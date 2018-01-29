@@ -1,4 +1,4 @@
-# OpenTok Schedule Kit
+# Boardroom Scheduler
 
 An OpenTok Starter Kit focussed on call scheduling
 
